@@ -1,0 +1,3 @@
+shape[0] te height and shape[1] te width hoy
+
+cv2 er maddhon e image k onoo extension ew newa jay like jepg to jpg or png
